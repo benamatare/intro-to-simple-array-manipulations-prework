@@ -8,6 +8,6 @@ def using_unshift (array, string)
 end
 
 
-def using_pop (arry)
+def using_pop (array)
   return array.pop
 end
